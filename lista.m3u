@@ -1,23 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TV_Brasil_logo_2019.svg" group-title="BRAZIL",TV Brasil
-https://playout.cdnfa.tvbrazilplay.com/tvbrasil/smil:tvbrasil.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_da_TV_Cultura_%282018%29.png" group-title="BRAZIL",TV Cultura
-https://video01.cdn.rc.tv.br/cultura/culturafree/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_TV_Senado.svg" group-title="BRAZIL",TV Senado
-https://stream3.camara.gov.br/tvsenado/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_TV_C%C3%A2mara_2019.svg" group-title="BRAZIL",TV Câmara
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TV_Brasil_logo_2022.png" group-title="Cultura",TV Brasil
+https://playplusnews-lh.akamaihd.net/i/tvbrasil_1@377792/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/TV_C%C3%A2mara_logo.png" group-title="Notícias",TV Câmara
 https://stream3.camara.gov.br/tvcamara/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Record_news_logo_2020.png" group-title="BRAZIL",Record News
-https://playplusnews-lh.akamaihd.net/i/recordnews_1@377793/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/TV_Justi%C3%A7a_logo.png" group-title="BRAZIL",TV Justiça
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TV_Senado_logo.png" group-title="Notícias",TV Senado
+https://stream3.camara.gov.br/tvsenado/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2f/Logo_TV_Justi%C3%A7a.png" group-title="Notícias",TV Justiça
 https://stream.tvjustica.jus.br/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Logotipo_da_TV_Escola.png" group-title="BRAZIL",TV Escola
-https://evpp.mmcdn.com/tvescola/smil:tvescola.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Aparecida_2021.png" group-title="BRAZIL",TV Aparecida
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/TV_Aparecida_Logo.png" group-title="Religiosos",TV Aparecida
 https://tv-aovivo-1.tva.org.br:1935/tvaparecida/smil:tvaparecida.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Rede_Vida_logo_2021.png" group-title="BRAZIL",Rede Vida
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01613-redevidabr-redevida-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TV_Evangelizar_2018_logo.png" group-title="BRAZIL",TV Evangelizar
-https://stream.evangelizar.org/video.mp4/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TV_Pai_Eterno_logo.png" group-title="BRAZIL",TV Pai Eterno
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e3/Logo_TV_Pai_Eterno.png" group-title="Religiosos",TV Pai Eterno
 https://5cf4a2c2512a2.streamlock.net/tvpaieeterno/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/75/TV_Evangelizar_Logo.png" group-title="Religiosos",TV Evangelizar
+https://stream.evangelizar.org/video.mp4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/32/Can%C3%A7%C3%A3o_Nova_logo_2017.png" group-title="Religiosos",TV Canção Nova
+https://playout.cdnfa.tvbrazilplay.com/cancaonova/smil:cancaonova.smil/playlist.m3u8
